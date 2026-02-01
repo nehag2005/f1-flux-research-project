@@ -1,5 +1,3 @@
-# F1 Flux Research Project
-
 ## Mitigating Predictive Bias in Formula 1 Pit Stop Data Using Disaggregated ML Models
 
 This repository contains the code for a research-focused machine learning project that investigates predictive bias in Formula 1 pit stop data and evaluates disaggregated machine learning models as a fairness intervention.
