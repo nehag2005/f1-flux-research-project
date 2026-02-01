@@ -48,3 +48,7 @@ The project follows a fairness-aware machine learning workflow:
 5. Comparing MAE disparities before and after mitigation  
 
 Constructor tier is treated as a protected attribute and is excluded from the specialised model inputs to prevent label leakage and preserve generalisability.
+
+## Conclusion
+
+This project shows that predictive bias in Formula 1 pit stop data can stem from structural inequalities in historical datasets. By training disaggregated models for different constructor tiers, the gap in MAE between teams was significantly reduced, improving predictive parity, even though overall model performance did not improve. This helps illustrate why fairness-aware evaluation matters in real-world machine learning.
